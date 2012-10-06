@@ -13,6 +13,8 @@
     },
     "devDependencies": {
         "coffee-script": "1.3.x",
-        "mocha":         "1.4.x"
+        "mocha":         "1.4.x",
+        "JSONStream":    "0.4.x",
+        "event-stream":  "3.0.x"
     }
 }
