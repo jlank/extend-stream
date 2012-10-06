@@ -1,7 +1,7 @@
 assert       = require "assert"
 extendStream = require "../src/index"
 
-describe "Extend stream"
+describe "Extend stream", ->
   describe "when extending an object from an object w/ unique keys", ->
     it "should retain all the original key value pairs"
     it "should add all the new key value pairs"
