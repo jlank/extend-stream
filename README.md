@@ -1,5 +1,8 @@
 Extend Stream
 =============
+
+[![Build Status](https://secure.travis-ci.org/JosephMoniz/extend-stream.png)](http://travis-ci.org/JosephMoniz/extend-stream)
+
 Extend stream is a stream that takes an initial JSON object and extends it
 with other JSON objects it receives and emits the final result when it's
 read source is done streaming objects to it
